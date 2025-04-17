@@ -31,7 +31,7 @@ Use this rubric to:
 ## 🧠 Alignment with Best Practices
 
 This approach is inspired by:
-- Humane Intelligence red-teaming scenarios
+- Humane Intelligence/NIST red-teaming exercise scenarios
 - OWASP LLM Top 10
 - EU AI Act obligations around high-risk system transparency
 
